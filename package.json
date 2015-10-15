@@ -1,0 +1,27 @@
+{
+  "name": "starship",
+  "version": "0.1.0",
+  "description": "a node.js framework use async/await",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "./node_modules/.bin/babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabez128/starship.git"
+  },
+  "keywords": [
+    "node.js",
+    "web framework"
+  ],
+  "author": "jabez zhang",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jabez128/starship/issues"
+  },
+  "homepage": "https://github.com/jabez128/starship#readme",
+  "dependencies": {
+    "babel": "^5.8.23"
+  }
+}
